@@ -133,3 +133,9 @@ tbody td button {
 tbody td button:hover {
   text-decoration: underline;
 }
+
+@media (orientation: portrait) {
+  .container {
+    min-width: 100vw;
+  }
+}
