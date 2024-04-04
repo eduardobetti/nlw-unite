@@ -1,7 +1,7 @@
 <h1>:clipboard: NLW-Unite :clipboard:</h1>
 <br>
 
-<img src="" alt="mockup">
+<img src="https://github.com/eduardobetti/nlw-unite/blob/main/mockup.png?raw=true" alt="mockup">
 <br>
 
 <p>Após 3 aulas com o professor Mayk Brito da Rocketseat, na #NLWUnite, desenvolvi uma lista de presença, onde o usuário pode registrar seu nome e e-mail para constar na lista e depois clicar no link de check-in para confirmar a presença.</p>
